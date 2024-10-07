@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    display: flex;
+}
+
+.nav{
+    height: 100vh;
+    width: 100vh;
+    background-color: aqua;
+}
+
+.contant{
+    height: 100vh;
+    width: 900vh;
+    background-color: bisque;
+}
